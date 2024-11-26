@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-This project creates and provides in tabular form a complete list of books from the **New York Times Bestseller Lists** (1931–2024) in the Fiction and Non-fiction categories. The motivation for this project was curiousity. As a reader I wanted to see historic bestseller trends and also identify how many of the bestseller books I have read and which authors consistently appear on the NYT list. I also think this project provides a good oppurtunity for literary research in the future.
+This project creates and provides in tabular form a complete list of books from the **New York Times Bestseller Lists** (1931–2024) in the Fiction and Non-fiction categories. The motivation for this project was curiousity. As a reader I wanted to see historic bestseller trends and also identify how many of the bestseller books I have read and which authors consistently appear on the NYT list. I also think this project provides a good opportunity for literary research in the future. I was surprised to find that only lists specific to one genre (fiction) or within a limited time frame had been created and publicly available. This dataset is unique because it provides both fiction and non-fiction data, as well as some book descriptions, across the entire current (November 2024) history of the NYT bestseller list.
 
 The scraping and analysis was conducted using Python scripts to extract, clean and process data from PDFs available on Hawes.com from Hawes Publications
 
@@ -58,6 +58,5 @@ The dataset:
 ## Open Source License
 
 This dataset and all associated scripts are released under the **MIT License**, allowing for open use, modification, and sharing with proper attribution.
-
 
 
